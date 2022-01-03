@@ -9,7 +9,7 @@ The author of the article (Chris Wellons) argues that the toolchains' C runtime 
 
 Alas, the repository is too big to put in this project as a submodule. So, I took the liberty of copying just a few files from the repository's directory I was interested in (my apologizes in advance).
 
-I "adapted" his technique(s) to Embracadero's clang-based toolchains.
+I "adapted" his technique(s) to Embarcadero's clang-based toolchains.
 
 To embed the manifest file (by hand) you need to use the Embarcadero resource compiler (brcc32) like this:
 
